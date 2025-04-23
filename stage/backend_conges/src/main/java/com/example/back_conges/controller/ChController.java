@@ -1,4 +1,4 @@
 package com.example.back_conges.controller;
 
-public class RhController {
+public class ChController {
 }
